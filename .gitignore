@@ -5,3 +5,6 @@ __pycache__/
 .env
 .env.*
 !.env.example
+
+# Local source papers and reference images; analysis is versioned separately.
+references/**/local/
