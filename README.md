@@ -14,6 +14,7 @@
 ## 参考案例
 
 - [001 · SMRTnet Fig.1](references/smrtnet-fig1/analysis.md)：清晰的整体叙事、协调的配色、简化而清爽的模型架构。原始 PDF 与截图保存在本地，分析记录参与远程同步。
+- [002 · IDPFold2 Fig.1](references/idpfold2-fig1/analysis.md)：用户选入的第二张参考；分析其问题、数据、架构与机制证据的组织，以及与第一张的异同。具体局部偏好尚未确认。
 
 ## 远程同步
 
